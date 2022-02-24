@@ -13,7 +13,7 @@ T. Morstyn, K. Collett, A. Vijay, M. Deakin, S. Wheeler, S. M. Bhagavathy, F. Fe
 
 The full OPEN documentation can be found [here](https://open-platform-for-energy-networks.readthedocs.io).
 
-## Installation
+## Installation hello
 
 Download OPEN source code.
 
